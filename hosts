@@ -5,7 +5,6 @@
 199.232.68.133 avatars0.githubusercontent.com
 
 #homestead
-192.168.10.10   soup.local
 192.168.10.10   fashion.local
 192.168.10.10   ticket.dev
 192.168.10.10   laravel-tricks.local
@@ -27,25 +26,24 @@
 192.168.10.10  phphub-server.dev
 192.168.10.10  crm.dev
 192.168.10.10  laravel-base.dev
-192.168.10.10	  api.51jixingke.com
-192.168.10.10	 filemanager.local
-192.168.10.10	  store.dev
-192.168.10.10	  api.zhimingsports.com
-192.168.10.10	  oa.sunivers.local
-192.168.10.10   finance.sunivers.local
-192.168.10.10   policy.sunivers.local
-192.168.10.10	  task.sunivers.local
+192.168.10.10	 api.51jixingke.com
+192.168.10.10	 store.dev
+192.168.10.10  api.zhimingsports.com
+192.168.10.10	 oa.sunivers.local
+192.168.10.10  finance.sunivers.local
+192.168.10.10  policy.sunivers.local
+192.168.10.10  task.sunivers.local
 192.168.10.10	 crm.sunivers.local
 192.168.10.10	 search.sunivers.local
-192.168.10.10   new.auto.local
-192.168.10.10   next.auto.local
-192.168.10.10 statistic.auto.local
+192.168.10.10  new.auto.local
+192.168.10.10  next.auto.local
+192.168.10.10  statistic.auto.local
 192.168.10.10  nova.local
-192.168.10.10		account.local
-192.168.10.10		learnku.local
-192.168.10.10		yomov.local
-192.168.10.10		larabbs.local
-192.168.10.10		tg-bot.local
+192.168.10.10	 account.local
+192.168.10.10	 learnku.local
+192.168.10.10	 yomov.local
+192.168.10.10	 larabbs.local
+192.168.10.10	 tg-bot.local
 149.154.167.22	api.telegram.org
 192.168.10.10		flarum.local
 192.168.10.10    propertybackend.local
@@ -54,3 +52,4 @@
 192.168.10.10 laravel-shop.local
 192.168.10.10 discuz.local
 192.168.10.10 smartjade.local
+192.168.10.10 facexr.local
